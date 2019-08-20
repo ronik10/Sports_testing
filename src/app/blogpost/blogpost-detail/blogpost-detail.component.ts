@@ -24,11 +24,11 @@
 
       blog:any;
       ngOnInit() {
-        this.blog$ = this.route.paramMap.pipe(
-          switchMap((params: ParamMap) =>
-            this.blogpostService.getBlog(+params.get('id'))
-          )
-        );
+//         this.blog$ = this.route.paramMap.pipe(
+//           switchMap((params: ParamMap) =>
+//             this.blogpostService.getBlog(+params.get('id'))
+//           )
+//         );
     //     let id = this.route.snapshot.params['id'];
     // this.blogpostService.getBlog(id).subscribe((u)=>{
     //   this.blog=u;
