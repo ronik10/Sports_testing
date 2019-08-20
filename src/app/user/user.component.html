@@ -1,0 +1,28 @@
+<!-- {{playersdetail|json}} -->
+<table>
+  <tr>
+  <img [attr.src]="playersdetail.photo" style="height:100px;width:100px" />
+  </tr>
+  <tr>
+    <th>Name</th>
+    <td>{{playersdetail.name}}</td>
+  </tr>
+  <tr>
+         <th>Last Team</th>
+         <td>{{playersdetail.lastteam}}</td>
+ </tr>
+  <tr>
+      <th>City</th>
+      <td>{{playersdetail.position}}</td>
+    </tr>
+    <tr>
+      <th>Last Team</th>
+      <td>{{playersdetail.city}}</td>
+    </tr>
+</table>
+
+<a class="nav-link" routerLink="usersubdetails" href="#">Details</a>
+<!-- <button type="button" name="Details" (click)="Details()">Details</button> -->
+
+<router-outlet></router-outlet>
+<button type="button" name="Back" (click)="back()">Back</button>

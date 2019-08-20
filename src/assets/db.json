@@ -1,0 +1,43 @@
+{
+  "players": [
+{"id":31,"name":"Debjit Majumder", "position":"Goalkeeper","photo":"assets/debjit.jpg","city":"Kolkata","lastteam":"ATK"},
+{"id":23, "name":"Shilton Paul", "position":"Goalkeeper","photo":"assets/shiltongk.jpg","city":"Kolkata","lastteam":"Mohun Bagan"},
+{"id":2, "name":"Fran Morante", "position":"Defender","photo":"assets/fran.jpg","city":"Madrid","lastteam":"Vallereal"},
+{"id":5, "name":"Sukhdev Singh", "position":"Defender","photo":"assets/sukh.jpg","city":"Punjab","lastteam":"Minerva"},
+{"id":20, "name":"Ashutosh Mehta", "position":"Defender","photo":"assets/ashu.jpg","city":"Mumbai","lastteam":"ATK"},
+{"id":3, "name":"Gurjinder Kumar", "position":"Defender","photo":"assets/gur.jpg","city":"Hariana","lastteam":"Mohun Bagan"},
+{"id":15, "name":"Nongdamba Naorem", "position":"Midfield","photo":"assets/naorem.jpg","city":"Manipur","lastteam":"Arrows"},
+{"id":12, "name":"Sheikh Faiaz", "position":"Midfield","photo":"assets/sk.jpg","city":"Kolkata","lastteam":"Mohun Bagan"},
+{"id":26, "name":"Shilton DSilva", "position":"Midfield","photo":"assets/sd.jpg","city":"Mumbai","lastteam":"Mohun Bagan"},
+{"id":35, "name":"Azharuddin Mallick", "position":"Striker","photo":"assets/azhar.jpg","city":"Kolkata","lastteam":"Mohun Bagan"},
+{"id":11, "name":"Suhair VP", "position":"Striker","photo":"assets/vp.jpg","city":"Trivandam","lastteam":"Gokulam Kerala"},
+{"id":10, "name":"Salva Chamorro", "position":"Striker","photo":"assets/salva.jpg","city":"Barcelona","lastteam":"Barcelona"}
+],
+
+"blog": [
+{"id":"1","title":"Nicolas Pepe reveals Lionel Messi inspiration when discussing £72m Arsenal transfer",
+"short_desc":"Last season the 24-year-old scored 22 league goals and was only outdone by Paris Saint-Germain striker After sealing his move to north London the player gave his first interview to Arsenal’s official website, where he revealed his inspiration for playing the game and what fans can expect to see of him next season.",
+"author":"LLOYD JOHNSON",
+"image":"assets/messi.jpg","created_at":"Fri, Aug 2, 2019"},
+
+{"id":"2","title":"Man Utd could sign both Paulo Dybala and Bruno Fernandes - but it all depends on one man",
+"short_desc":"Manchester United and Juventus are said to have agreed a swap deal that would see Dybala head to Old Trafford rnandes plays a slightly deeper role than Dybala, with the latter’s preferred position as a second striker.",
+"author":" LEWIS WINTER","image":"assets/dybala.jpg","created_at":" Thu, Aug 1, 2019"},
+
+{"id":"3","title":"Arsenal slammed after Nicolas Pepe transfer and told Dani Ceballos makes them worse",
+"short_desc":"Pepe joined Arsenal on Thursday from Lille for a fee of £72million ever, O’Hara believes supporters are getting carried away if they think Pepe’s arrival makes Arsenal contenders for the Premier League title",
+"author":"LEWIS WINTER","image":"assets/news2.jpg","created_at":"2043 Fri, Aug 2, 2019"},
+
+{"id":"4","title":"Ole’s defensive revolution: How Man Utd will line up with Maguire",
+"short_desc":"The England centre-back has been a star in three-man and four-man defensive  Harry Maguire has finally joined Manchester United from Leicester City.While Ole Gunnar Solskjaer i",
+"author":"Kris Voakes","image":"assets/n2.jpg","created_at":"Last updated 6 days ago"},
+
+{"id":"5","title":"Premier League 2019-20 completed transfers: Hazard, Rodri, Wan-Bissaka & all new 2019 summer signings",
+"short_desc":"Goal brings you everything you need to knThe 2019-20 Premier League season doesn't kick off until August 9ove from Chelsea to Real Madrid,  while Manchester United have brought in Danielecord for Rodrir.",
+"author":"LEWIS WINTER","image":"assets/n4.jpg","created_at":"Last updated 43 minutes ago"},
+
+{"id":"6","title":"‘Liverpool have to bolster depleted squad’ – Lack of movement surprises Houghton",
+"short_desc":"The former Reds midfielder is struggling to understand why, with some players having moved out, there has not been more business done at AnfieldThe lack of transfer activity at Liverpool thio be working with a ansfer window.",
+"author":"Chris Burton","image":"assets/n1.jpg","created_at":"2043 Fri, Aug 2, 2019"}
+]
+}
