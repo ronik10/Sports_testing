@@ -13,7 +13,7 @@
     })
     export class BlogpostDetailComponent implements OnInit {
         title = 'Blog Details';
-      blog$: Observable<Blogpost>;
+      blog$: Observable<Object>;
 
       constructor(
         private route: ActivatedRoute,
